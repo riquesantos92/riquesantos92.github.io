@@ -102,6 +102,7 @@ body {
 .skills ul {
     padding-top: 1.5rem;
 }
+
 .skills ul li p {
     padding: .4rem 0;
     color: #d6dbdfaf;
@@ -129,7 +130,6 @@ body {
     padding-bottom: .4rem;
 }
 
-
 .right-section-contents {
     padding: 2rem 2rem;
 }
@@ -149,11 +149,18 @@ body {
 .gap {
     padding-bottom: 2rem;
 }
+
 .about-me-contents {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
     color: #F1F8FD;
+}
+
+.exp-right,
+.awards-right,
+.education-right {
+    padding-bottom: 1.5rem;
 }
 
 .experience-contents,
